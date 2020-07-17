@@ -6,19 +6,22 @@ Exploring COVID 19 data.
 Why is this important? What is the potential here?
 
 ### Project Goals:
-    1. Create innovative visualizations for COVID-19 data 
-    2. Implement statistics that can be used by the general public
-    3. Establish a pattern for building serverless web applications using HydroShare and CUAHSI JupyterHub
+
+1. Create innovative visualizations for COVID-19 data 
+2. Implement statistics that can be used by the general public
+3. Establish a pattern for building serverless web applications using HydroShare and CUAHSI JupyterHub
 
 ### List of Technologies/Software/Datasets:
-    - Python 3+
-    - Bokeh
-    - Pandas
-    - GitHub
-    - COVID-19 Data
-    - NetCDF
+
+- Python 3+
+- Bokeh
+- Pandas
+- GitHub
+- COVID-19 Data
+- NetCDF
 
 ### Learning Opportunities
+
 - All programming levels welcome. We'll be primarily using Python but other languages can be used too!
 - Cloud computing with Jupyter Notebooks
 - Learn methods for visualizing data in the cloud

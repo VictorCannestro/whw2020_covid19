@@ -37,7 +37,7 @@ The following steps should get you going :). Please edit/add as necessary.
 3. Launch CUAHSI JupyterHub (or go to jupyterhub.cuahsi.org) and choose the WaterHackWeek 2020 environment profile. This environment will contain all the libraries that we need.
 4. Open an new "Terminal" session and clone the github repository by running the command:
 ```
-$ git clone https://github.com/waterhackweek/covid19.git
+$ git clone https://github.com/waterhackweek/whw2020_covid19.git
 ```
 5. Create anaconda environment. In the terminal from the previous step run the following commands:
 ```

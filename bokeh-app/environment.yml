@@ -3,10 +3,12 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - ipykernel
   - pip
   - bokeh
   - numpy=1.18.4
   - pygments=2.6.1
+  - pandas
   - pyparsing=2.4.7
   - pyrsistent=0.16.0
   - python=3.8.2
